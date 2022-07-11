@@ -1,3 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.parag1{
+    margin-top: 100px;
+}
 nav{
     background: rgb(231, 166, 46);
     width: 100%;
@@ -39,7 +46,123 @@ label.shop{
     margin-left: 1px;
 }
 .about_us{
-    background:rgb(231, 166, 46);
-    font-size: 30px;
-    margin-left: 10px;
+    
+    font-size: 40px;
+    margin-left: 150px;
+    padding-top:600px;
+    
+    
+}
+.im2{
+    width: 450;
+    margin-top: 50px;
+    margin-left: 50px;
+  
+    
+ 
+
+}
+.text1{
+    float: right;
+    margin-left: 550px;
+    margin-right: 100px;
+    font-size: 20px;
+    margin-bottom: 150px;
+    
+ 
+    
+}
+.h3{
+    
+    margin-left: 50px;
+}
+.im3{
+    width: 450;
+    margin-top: 50px;
+    margin-left: 1050px;
+}
+.text2{
+
+    margin-left: 50px;
+    margin-right: 650px;
+    font-size: 20px;
+}
+
+.bloc1{
+    background:  rgb(231, 166, 46);
+    margin-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.connect{
+    border:2px solid rgb(233, 56, 25);
+    float: right;
+    background-color: rgb(238, 226, 56);
+    margin-right: 600px;
+    margin-top: 15px;
+    font-size: 20px;
+    padding: 5px ;
+}
+.h1{
+    color: aliceblue;
+    margin-bottom: 15px;
+}
+.p{
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.im4{
+    float: right;
+    margin-right: 50px;
+
+}
+.line1{
+    background:rgb(238, 226, 56) ;
+    margin-bottom: 50px;
+    margin-right: 25px;
+    
+}
+.line2{
+    background:rgb(238, 226, 56) ;
+    margin-top: 100px;
+    margin-right: 25px;
+    
+}
+.follow_us{
+    background: rgb(231, 166, 46);
+    height: 20px;
+    
+    float: right;
+    margin-right: 500px;
+    margin-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size:50px;
+   
+    
+}
+.border{
+    background: rgb(231, 166, 46) ;
+    margin-left: 50px;
+    margin-top: 150px;
+    margin-right: 1200px;
+}
+.border1{
+    background: rgb(231, 166, 46) ;
+    margin-left: 1000px;
+    margin-top: 150px;
+    margin-right: 150px;
+}
+.border2{
+    background: rgb(231, 166, 46) ;
+    margin-left: 1000px;
+
+
+    margin-right: 150px;
+}
+.border3{
+    background: rgb(231, 166, 46) ;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-right: 1200px;
 }
